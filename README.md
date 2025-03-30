@@ -3,7 +3,26 @@
 ## 🚀 Overview
 
 This is a **Student Management System** built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. It allows users to add, edit, view, and manage student records efficiently. The frontend is deployed on **Vercel**, while the backend is deployed on **Render**.
+## Project Preview
 
+<table>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (285).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (286).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (287).png" alt="Landing" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (288).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (289).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+ 
+</table>
 ## 📂 Project Structure
 
 The project consists of two repositories:
